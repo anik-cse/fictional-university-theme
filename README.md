@@ -1,2 +1,2 @@
-# Fictional-university-theme
+# Fictional university theme
  
